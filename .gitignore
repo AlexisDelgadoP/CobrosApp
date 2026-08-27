@@ -1,0 +1,28 @@
+# Archivos de configuración de IDE
+*.iml
+.idea/*
+
+# Gradle
+.gradle/
+build/
+*/build/
+app/build/
+
+# Configuración local
+local.properties
+/local.properties
+# Archivos generados por Android Studio
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Keystore (si usás firmas locales)
+*.jks
+*.keystore
