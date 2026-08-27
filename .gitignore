@@ -1,6 +1,6 @@
 # Archivos de configuración de IDE
 *.iml
-.idea/*
+.idea/
 
 # Gradle
 .gradle/
